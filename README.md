@@ -1,3 +1,13 @@
+Problem Statement
+To complete the following programs using any of the React programming languages?
+
+1. Write a program to print the series 4,6,12,18,30,42,60,72
+2.  Write a program to find all the Palindrome dates that come between the year 01-01-2001 till 31-12-2021. eg. 10-02-2001
+
+Finally Completed & Excuted!
+![home](https://user-images.githubusercontent.com/109410990/233642183-02f47320-293c-4ef9-bd07-34588a9a57f4.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
