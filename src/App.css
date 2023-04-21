@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+.App{
+  background: black;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.series_1{
+  box-shadow: 10px 14px 18px 0 rgba(73, 149, 243, 0.8);
+  transition: 0.3s;
+  position: relative;
+  width: 400px;
+  height: 250px;
+  border-radius: 10px;
+  margin: auto;
+  background: white;
+  top: 20px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.he_2{
+  color: rgb(239, 40, 53);
+  position: relative;
+  left: 156px;
+  top: 10px;
+  text-decoration-line: underline;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.series_line{
+  position: relative;
+  left: 30px;
+  font-weight: 600;
 }
-
-.App-link {
-  color: #61dafb;
+.Plaindrome_card{
+  box-shadow: 10px 14px 18px 0 rgba(73, 149, 243, 0.8);
+  transition: 0.3s;
+  position: relative;
+  width: 1000px;
+  height: 250px;
+  border-radius: 10px;
+  margin: auto;
+  background: white;
+  top: 60px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.part_palindrome{
+  color: rgb(10, 17, 96);
+  position: relative;
+  left: 60px;
+  top: 10px;
+  text-decoration-line: underline;
+}
+.part_palindrome2{
+  position: relative;
+  left: 30px;
+  top: 20px;
+  font-weight: 600;
 }
