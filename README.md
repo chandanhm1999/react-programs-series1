@@ -1,4 +1,4 @@
-Problem Statement!!!!!!
+Problem Statement!!!!!
 To complete the following programs using any of the React programming languages?
 
 1. Write a program to print the series 4,6,12,18,30,42,60,72
