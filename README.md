@@ -1,5 +1,5 @@
 New componnet.js for design of Nuvteq!!S]
-Folder componnet.js /Components
+Folder componnet.js /Components!
 ![Screenshot 2024-07-26 131227](https://github.com/user-attachments/assets/05a0e96d-7725-49e8-8708-c1b3bede8b1b)
 
 NewComponent.js
