@@ -1,9 +1,12 @@
-New componnet.js for design of Nuvteq!!S]!!!!
+<img width="960" alt="Screenshot 2024-08-24 133442" src="https://github.com/user-attachments/assets/f2e6c22f-7859-4e73-a314-49a6c2612b15">New componnet.js for design of Nuvteq!!S]!!!!
 Folder componnet.js /Components!
 ![Screenshot 2024-07-26 131227](https://github.com/user-attachments/assets/05a0e96d-7725-49e8-8708-c1b3bede8b1b)
 
 NewComponent.js
 ![Screenshot 2024-07-31 123747](https://github.com/user-attachments/assets/472a9565-5309-43d1-abf2-c443b7fb8a8e)
+
+NewNavbar.jsx!
+[Uploading Screenshot 2024-08-24 133442.png…]()
 
 Problem Statement!!!
 To complete the following programs using any of the React programming languages?!!!
