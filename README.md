@@ -1,3 +1,10 @@
+teqspocLogo.jsx
+<img width="960" alt="Screenshot 2024-08-24 140339" src="https://github.com/user-attachments/assets/764ef704-6cd0-4580-975d-68e86d1926cc">
+
+
+jhgjhsdfgsdh
+
+
 <img width="960" alt="Screenshot 2024-08-24 133442" src="https://github.com/user-attachments/assets/f2e6c22f-7859-4e73-a314-49a6c2612b15">New componnet.js for design of Nuvteq!!S]!!!!
 Folder componnet.js /Components!
 ![Screenshot 2024-07-26 131227](https://github.com/user-attachments/assets/05a0e96d-7725-49e8-8708-c1b3bede8b1b)
