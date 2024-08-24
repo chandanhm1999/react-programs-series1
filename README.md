@@ -1,3 +1,7 @@
+StripeNav.jsx
+
+![Uploading stripenav.png…]()
+
 teqspocLogo.jsx
 <img width="960" alt="Screenshot 2024-08-24 140339" src="https://github.com/user-attachments/assets/764ef704-6cd0-4580-975d-68e86d1926cc">
 
