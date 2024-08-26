@@ -1,4 +1,4 @@
-StripeNav.jsx
+StripeNav.jsx!
 
 ![Uploading stripenav.png…]()
 
