@@ -1,5 +1,5 @@
 StripeNav.jsx!!
-
+!
 ![Uploading stripenav.png…]()
 
 teqspocLogo.jsx
