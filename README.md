@@ -1,6 +1,8 @@
 StripeNav.jsx!!!!
 !
 <img width="960" alt="stripenav" src="https://github.com/user-attachments/assets/38ea9856-77a9-4944-a30e-55b931def32b">
+
+
 teqspocLogo.jsx
 <img width="960" alt="Screenshot 2024-08-24 140339" src="https://github.com/user-attachments/assets/764ef704-6cd0-4580-975d-68e86d1926cc">
 
